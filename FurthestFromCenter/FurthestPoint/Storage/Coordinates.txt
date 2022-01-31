@@ -1,0 +1,16 @@
+﻿b.	Point1(2, 3)b.	Point1(2, 3) b.	Point1(2, 3)
+c.	Point2(-3,-9)asfgasdgthaglkh
+d.	point3(-5, 2)
+
+c.	Point2(-3,-9)
+d.	Point3(-5, 2)asdasdasdasfagdfhasfhd
+
+c.	Point2(-3,-9)
+d.	Point3(-5, 2)
+d.	Point3(0, 2)
+d.	Point3(0, 0)
+
+
+Point4(-5,5555, 2,55555555)
+Point5(-000.0001, 222222.0000)
+Point6(-000.0001, 222222.0000)
