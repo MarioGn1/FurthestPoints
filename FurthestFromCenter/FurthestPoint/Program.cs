@@ -1,12 +1,5 @@
-﻿using System;
-using System.IO;
-using System.Linq;
-using System.Collections.Generic;
-using System.Text.RegularExpressions;
-using System.Globalization;
-using FurthestPoint.Models;
+﻿using FurthestPoint.Core;
 using FurthestPoint.Core.Contracts;
-using FurthestPoint.Core;
 
 namespace FurthestPoint
 {
